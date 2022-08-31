@@ -18,9 +18,9 @@ public class /* TIPO */ SistemaGere
 
 
 
-public SistemaGere( final String Identificacao, final String Descricao, final String DataInicio, final String HoraInicio,
-        final String DataFinal, final String HoraFinal, final String Coordernador, final String Profissionais,
-        final String Atividades, final int ValorBolsa, final int PeriodoVigenciaBolsa)
+public SistemaGere( String Identificacao, String Descricao,  String DataInicio, String HoraInicio,
+         String DataFinal,  String HoraFinal,  String Coordernador,  String Profissionais,
+         String Atividades, int ValorBolsa, int PeriodoVigenciaBolsa)
 
 {
 
