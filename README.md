@@ -1,3 +1,3 @@
 # Disciplina Projeto Software
-
-Algoritmos para completar a Materia de Projeto de Software.
+Ministrada pelo Professor Baldoino Fonseca
+Algoritmos para atender aos requisitos da disciplina.
