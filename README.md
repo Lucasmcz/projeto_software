@@ -1,3 +1,4 @@
 # Disciplina Projeto Software
-Ministrada pelo Professor Baldoino Fonseca <br>
-Algoritmos para atender aos requisitos da disciplina.
+Utiliza o comando "javac Arquivo.java"
+e depois "java Arquivo" para executar o arquivo
+
